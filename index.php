@@ -72,7 +72,6 @@
           </div>
         </div>
     </nav>
-  
       
     <section id="home">
         <div class="container">
